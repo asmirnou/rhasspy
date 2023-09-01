@@ -60,16 +60,16 @@
 	branch = master
 [submodule "rhasspy-supervisor"]
 	path = rhasspy-supervisor
-	url = https://github.com/rhasspy/rhasspy-supervisor.git
-	branch = master
+	url = https://github.com/asmirnou/rhasspy-supervisor.git
+	branch = porcupine_v2
 [submodule "rhasspy-tts-cli-hermes"]
 	path = rhasspy-tts-cli-hermes
 	url = https://github.com/rhasspy/rhasspy-tts-cli-hermes.git
 	branch = master
 [submodule "rhasspy-wake-porcupine-hermes"]
 	path = rhasspy-wake-porcupine-hermes
-	url = https://github.com/rhasspy/rhasspy-wake-porcupine-hermes.git
-	branch = master
+	url = https://github.com/asmirnou/rhasspy-wake-porcupine-hermes.git
+	branch = porcupine_v2
 [submodule "rhasspy-web-vue"]
 	path = rhasspy-web-vue
 	url = https://github.com/rhasspy/rhasspy-web-vue.git
